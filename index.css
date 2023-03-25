@@ -322,6 +322,7 @@
         justify-content: center;
         padding-top:1.5em;
         margin:auto;
+        border:solid 2px red;
     }
 }
 
